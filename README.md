@@ -20,9 +20,9 @@ print result
 (i) To find the L and U matrix
 ```
 '''
-#Program to find L and U matrix using LU decomposition.
-#Developed by: DINESH R
-#RegisterNumber: 212224240037
+Program to find L and U matrix using LU decomposition.
+Developed by: DINESH R
+RegisterNumber: 212224240037
 '''
 import numpy as np
 from scipy.linalg import lu
@@ -34,9 +34,9 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
 ```
 '''
-#Program to solve a matrix using LU decomposition.
-#Developed by: DINESH R
-#RegisterNumber: 212224240037
+Program to solve a matrix using LU decomposition.
+Developed by: DINESH R
+RegisterNumber: 212224240037
 '''
 
 # To print X matrix (solution to the equations)
