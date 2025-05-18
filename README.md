@@ -16,7 +16,7 @@ matrix.
 4. Define a package as "from scipy.linalg import lu_factor, lu_solve" and create the
 variable as 'X' include the package in that variable.
 5. End the program
-6. 
+
 ## Program:
 (i) To find the L and U matrix
 ```
